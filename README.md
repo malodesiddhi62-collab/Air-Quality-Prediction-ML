@@ -24,6 +24,16 @@ Linear Regression
 - Relative Humidity
 - Absolute Humidity
 
+## Methodology
+1. Data Loading
+2. Data Cleaning
+3. Feature Selection
+4. Train-Test Split
+5. Model Training
+6. Prediction
+7. Evaluation
+
+   
 ## Evaluation Metrics
 - MAE
 - R2 Score
