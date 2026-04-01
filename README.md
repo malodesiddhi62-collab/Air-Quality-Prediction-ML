@@ -1,9 +1,8 @@
 # Air Quality Prediction using Machine Learning
 
 ## Overview
-This project predicts air pollution levels using machine learning 
-based on environmental and sensor data. The model helps understand 
-air quality trends and supports environmental monitoring.
+This project predicts air pollution levels using machine learning techniques 
+based on environmental and sensor data.
 
 ## Dataset
 Air Quality UCI Dataset
@@ -33,13 +32,9 @@ Linear Regression
 ## Results
 
 ### Actual vs Predicted Air Quality
-This graph compares actual and predicted air quality values.
-
 ![Actual vs Predicted](prediction_graph.png)
 
 ### Scatter Plot of Prediction
-This scatter plot shows relationship between actual and predicted values.
-
 ![Scatter Plot](scatter_plot.png)
 
 ## Future Scope
