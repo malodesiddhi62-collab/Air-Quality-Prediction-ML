@@ -30,6 +30,18 @@ Linear Regression
 - R2 Score
 - RMSE
 
+## Results
+
+### Actual vs Predicted Air Quality
+This graph compares actual and predicted air quality values.
+
+![Actual vs Predicted](prediction_graph.png)
+
+### Scatter Plot of Prediction
+This scatter plot shows relationship between actual and predicted values.
+
+![Scatter Plot](scatter_plot.png)
+
 ## Future Scope
 - Apply Random Forest
 - Apply Deep Learning
